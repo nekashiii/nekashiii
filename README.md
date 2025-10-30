@@ -42,17 +42,19 @@
 
 ###
 
-<div align="left">
-  <img src="https://pa1.aminoapps.com/6495/e2f069acd12ec85e306a9b843aa617f30f58ab22_hq.gif" height="150" alt="batman gif" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://pa1.aminoapps.com/6495/e2f069acd12ec85e306a9b843aa617f30f58ab22_hq.gif" height="150" alt="batman gif" />
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph.svg">
+          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph.svg" height="150" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
-
-###
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph.svg">
-</picture>
-
-###
