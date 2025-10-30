@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/6495/e2f069acd12ec85e306a9b843aa617f30f58ab22_hq.gif" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -38,6 +34,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://pa1.aminoapps.com/6495/e2f069acd12ec85e306a9b843aa617f30f58ab22_hq.gif" height="150" alt="batman gif" />
+</div>
+
+###
+
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" height="150" alt="pacman gif" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="150" alt="pacman gif" />
 </div>
