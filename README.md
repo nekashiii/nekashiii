@@ -48,6 +48,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="150" alt="pacman gif" />
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nekashiii/nekashiii/output/pacman-contribution-graph.svg">
+</picture>
+
+###
