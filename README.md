@@ -76,6 +76,3 @@
 
 <hr>
 
-<p align="center">
-Always learning and building new projects.
-</p>
